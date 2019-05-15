@@ -3,6 +3,8 @@ def puts_git(cmd)
   menu
 end
 
+#Edit
+
 def menu
   puts '1: Enter git command'
   puts '2: Exit'
