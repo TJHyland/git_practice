@@ -3,8 +3,6 @@ def puts_git(cmd)
   menu
 end
 
-#Edit
-
 def menu
   puts '1: Enter git command'
   puts '2: Exit'
@@ -23,3 +21,22 @@ def menu
 end
 
 menu
+
+
+# new repo
+# git init
+# git add .
+# git commit -m "message here"
+# git remote add origin *paste ssh url here
+
+# already have a repo and need to update
+# *test code
+# *save all files
+# git add .
+# git commit -m "what you changed/did"
+# push origin master
+
+# misc.
+# git status - checks the progress of the git flow
+# git remote -v - shows any remotes connected to this repo (ssh thingy)
+# vim esc :wq
