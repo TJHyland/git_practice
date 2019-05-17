@@ -34,7 +34,7 @@ menu
 # *save all files
 # git add .
 # git commit -m "what you changed/did"
-# push origin master
+# git push origin master
 
 # misc.
 # git status - checks the progress of the git flow
